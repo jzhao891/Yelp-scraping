@@ -1,0 +1,177 @@
+###################################################################################################################################################################################################################
+#<div class="review review--with-sidebar" data-review-id="bHdAoSwd8ksChmTaj4HiFw" data-signup-object="user_id:txvUasF8rP9My0o9DZEzeg" itemprop="review" itemscope="itemscope" itemtype="http://schema.org/Review">#
+###################################################################################################################################################################################################################
+<meta itemprop="author" content="SD FoodGirls .." />
+<div class="review-sidebar">
+<div class="review-sidebar-content">
+<div class="ypassport media-block">
+<div class="media-avatar responsive-photo-box">
+<div class="photo-box pb-60s" data-hovercard-id="YpJnQ2kDRMW6K6bzXaOA7A">
+########################################################
+#<a href="/user_details?userid=txvUasF8rP9My0o9DZEzeg">#
+########################################################
+<img alt="SD FoodGirls .." class="photo-box-img" height="60" src="//s3-media2.fl.yelpcdn.com/photo/zJByB8PghJLkg3HQpRJvuQ/60s.jpg" width="60" />
+</a>
+</div>
+</div>
+<div class="media-story">
+<ul class="user-passport-info">
+<li class="user-name">
+<a class="user-display-name" href="/user_details?userid=txvUasF8rP9My0o9DZEzeg" data-hovercard-id="YpJnQ2kDRMW6K6bzXaOA7A">SD FoodGirls ..</a>
+</li>
+<li class="user-location responsive-hidden-small">
+<b>San Diego, CA</b>
+</li>
+</ul>
+<ul class="user-passport-stats">
+<li class="friend-count responsive-small-display-inline-block">
+<span class="i-wrap ig-wrap-common_sprite i-18x18_friends_c-common_sprite-wrap"><i class="i ig-common_sprite i-18x18_friends_c-common_sprite"></i> <b>3</b> friends</span>
+</li>
+<li class="review-count responsive-small-display-inline-block">
+<span class="i-wrap ig-wrap-common_sprite i-18x18_review_c-common_sprite-wrap"><i class="i ig-common_sprite i-18x18_review_c-common_sprite"></i> <b>34</b> reviews</span>
+</li>
+</ul>
+</div>
+</div>
+<ul class="action-link-list action-link-list--small">
+<li>
+<a class="arrange arrange--middle send-to-friend" data-pop-uri="/send_to_friend/review/bHdAoSwd8ksChmTaj4HiFw" href="javascript:;" rel="">
+<div class="action-link_icon arrange_unit">
+<i class="i ig-common_sprite i-18x18_share-linked-common_sprite align-middle"></i>
+</div>
+<div class="action-link_label arrange_unit arrange_unit--fill">
+            Share review
+        </div>
+</a>
+</li>
+<li>
+<a class="arrange arrange--middle send-compliment" href="javascript:;" rel="">
+<div class="action-link_icon arrange_unit">
+<i class="i ig-common_sprite i-18x18_compliment_link-common_sprite align-middle"></i>
+</div>
+<div class="action-link_label arrange_unit arrange_unit--fill">
+            Compliment
+        </div>
+</a>
+</li>
+<li>
+<a class="arrange arrange--middle send-pm" href="javascript:;" rel="SD FoodGirls ..">
+<div class="action-link_icon arrange_unit">
+<i class="i ig-common_sprite i-18x18_message_link-common_sprite align-middle"></i>
+</div>
+<div class="action-link_label arrange_unit arrange_unit--fill">
+            Send message
+        </div>
+</a>
+</li>
+<li>
+<a class="arrange arrange--middle manage-following manage-following-add" data-csrf-token="34e1d33b0e969fa2ee997873c322d2b05a146503a96f9d6783308048cbdc97f5" href="javascript:;" rel="txvUasF8rP9My0o9DZEzeg">
+<div class="action-link_icon arrange_unit">
+<i class="i ig-common_sprite i-18x18_following_link-common_sprite align-middle"></i>
+</div>
+<div class="action-link_label arrange_unit arrange_unit--fill">
+            Follow SD FoodGirls ..
+        </div>
+</a>
+</li>
+<li>
+<a class="arrange arrange--middle manage-following manage-following-remove hidden" data-csrf-token="34e1d33b0e969fa2ee997873c322d2b05a146503a96f9d6783308048cbdc97f5" href="javascript:;" rel="txvUasF8rP9My0o9DZEzeg">
+<div class="action-link_icon arrange_unit">
+<i class="i ig-common_sprite i-18x18_unfollow_link-common_sprite align-middle"></i>
+</div>
+<div class="action-link_label arrange_unit arrange_unit--fill">
+            Stop following SD FoodGirls ..
+        </div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="review-wrapper">
+<div class="review-content">
+<div class="biz-rating biz-rating-very-large clearfix">
+<div itemprop="reviewRating" itemscope="itemscope" itemtype="http://schema.org/Rating">
+<div class="rating-very-large">
+<i class="star-img stars_5" title="5.0 star rating">
+<img alt="5.0 star rating" class="offscreen" height="303" src="//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c2252a4cd43e/assets/img/stars/stars_map.png" width="84" />
+</i>
+###############################################
+#<meta itemprop="ratingValue" content="5.0" />#
+###############################################
+</div>
+</div>
+<span class="rating-qualifier">
+<meta itemprop="datePublished" content="2016-04-02" />
+        4/2/2016
+    </span>
+</div>
+<p itemprop="description" lang="en">This place is truly amazing! I&#39;ve had 2 experiences here so far and overall it&#39;s exceptional in every way. Let&#39;s talk about THE VIEW! You can see downtown, Coronado bridge, the navy base, sea lions, sail boats and soo much more. The view alone is worth the visit. And parking is free during the day, awesome perk! They have indoor and outdoor seating.<br /><br />Out of town friends love when we take them here! And we&#39;ve had quite a variety of things on the menu so far. <br /><br />Seafood Bloody Mary - OMG you have to try it! <br />Lobster Mac&#39;n&#39;cheese - yumm yumm, it has big chunks of lobster in it and is super cheesy <br />Lobster bisque - wow, some of the best I&#39;ve had<br />Lobster and fontina BLT - huge toasty sandwich filled with lobster goodness and a side of lobster bisque<br />Nut crusted Brie - gooey warm Brie and super addicting<br />Fried artichoke hearts - good, but not the best I&#39;ve had; I prefer bigger chunks and they served it in smaller bites which means more breading and less artichoke, served with aioli<br />Coconut shrimp - really good, I was pleasantly surprised<br />Everything crusted tuna - crusted, seared and tasty<br /><br />They have a great menu and food has always been on point. I can&#39;t rave about the service from the first visit, but Justin provided excellent service on our second visit. The prices are very reasonable based on great food, great service, great ambiance and free parking! <br /><br />Someday I&#39;ll make it here for happy hour too! <br />#sandiegofoodgirls</p>
+<ul class="photo-box-grid clearfix js-content-expandable lightbox-media-parent" data-ad-logging-csrf="9127e0e63772ef53c8c489a4ddea2d285b4b0755fd53910343b738ede9db38be" data-ad-logging-uri="/ad_acknowledgment" data-ga-path="media_lightbox/servlet:biz_details/type:biz" data-logging-csrf="85f535dc7eb5672b57fbe98f6c29ff6b33b86a869c1f71d019ff1c3a6abec5bb" data-logging-uri="/biz_photos/Sa_qcnc7ZgzSOylf3plTRA/log_views" data-media-count="9" data-media-url="/biz_photos/get_media_slice/Sa_qcnc7ZgzSOylf3plTRA?reviewid=bHdAoSwd8ksChmTaj4HiFw" data-starting-index="0">
+<li style="width: 348px; height: 348px;">
+<div class="photo-box photo-box--interactive is-loading">
+<img data-async-src="//s3-media2.fl.yelpcdn.com/bphoto/FOnzv0CfVTMYk_ZrfoR7rQ/348s.jpg" alt="C Level - San Diego, CA, United States. Lobster mac" class="photo-box-img no-js-hidden" height="348" src="//s3-media2.fl.yelpcdn.com/assets/srv0/yelp_styleguide/978c1bee49d7/assets/img/1x1.png" width="348" />
+<noscript>
+<img alt="C Level - San Diego, CA, United States. Lobster mac" class="photo-box-img" height="348" src="//s3-media2.fl.yelpcdn.com/bphoto/FOnzv0CfVTMYk_ZrfoR7rQ/348s.jpg" width="348" />
+</noscript>
+<div class="photo-box-overlay js-overlay">
+<div class="photo-box-overlay_caption">Lobster mac</div>
+</div>
+<a class="biz-shim js-lightbox-media-link" href="/biz_photos/c-level-san-diego?reviewid=bHdAoSwd8ksChmTaj4HiFw&amp;select=FOnzv0CfVTMYk_ZrfoR7rQ">
+<span class="offscreen">Lobster mac</span>
+</a>
+</div>
+</li>
+<li style="width: 168px; height: 168px;">
+<div class="photo-box photo-box--interactive is-loading">
+<img data-async-src="//s3-media2.fl.yelpcdn.com/bphoto/QQvj4M_4LDQFqVPQ_9wEmQ/168s.jpg" alt="C Level - San Diego, CA, United States" class="photo-box-img no-js-hidden" height="168" src="//s3-media2.fl.yelpcdn.com/assets/srv0/yelp_styleguide/978c1bee49d7/assets/img/1x1.png" width="168" />
+<noscript>
+<img alt="C Level - San Diego, CA, United States" class="photo-box-img" height="168" src="//s3-media2.fl.yelpcdn.com/bphoto/QQvj4M_4LDQFqVPQ_9wEmQ/168s.jpg" width="168" />
+</noscript>
+<a class="biz-shim js-lightbox-media-link" href="/biz_photos/c-level-san-diego?reviewid=bHdAoSwd8ksChmTaj4HiFw&amp;select=QQvj4M_4LDQFqVPQ_9wEmQ">
+<span class="offscreen"></span>
+</a>
+</div>
+</li>
+<li style="width: 168px; height: 168px;">
+<div class="photo-box photo-box--interactive is-loading">
+<img data-async-src="//s3-media3.fl.yelpcdn.com/bphoto/p2IHKEDfm57R9eaKGIfspA/168s.jpg" alt="C Level - San Diego, CA, United States" class="photo-box-img no-js-hidden" height="168" src="//s3-media2.fl.yelpcdn.com/assets/srv0/yelp_styleguide/978c1bee49d7/assets/img/1x1.png" width="168" />
+<noscript>
+<img alt="C Level - San Diego, CA, United States" class="photo-box-img" height="168" src="//s3-media3.fl.yelpcdn.com/bphoto/p2IHKEDfm57R9eaKGIfspA/168s.jpg" width="168" />
+</noscript>
+<a class="biz-shim js-lightbox-media-link" href="/biz_photos/c-level-san-diego?reviewid=bHdAoSwd8ksChmTaj4HiFw&amp;select=p2IHKEDfm57R9eaKGIfspA">
+<span class="offscreen"></span>
+</a>
+</div>
+</li>
+<li class="more-review-photos">
+<a href="/biz_photos/c-level-san-diego?userid=txvUasF8rP9My0o9DZEzeg" class="js-content-expander">
+                        See all photos from SD FoodGirls .. for C Level
+                    </a>
+</li>
+</ul>
+</div>
+<div class="review-footer clearfix">
+<div class="rateReview voting-feedback" data-review-id="bHdAoSwd8ksChmTaj4HiFw">
+<p class="voting-intro voting-prompt">
+        Was this review &hellip;?
+    </p>
+<ul class="voting-buttons" data-csrf-token="a921a65b2441f368283843f4310a43e22f2550431143ba9b188c363957b2a12d">
+<li class="vote-item inline-block">
+<a href="javascript:;" rel="useful" class="ybtn ybtn--small useful"><span class="i-wrap ig-wrap-common i-ufc-useful-common-wrap button-content"><i class="i ig-common i-ufc-useful-common"></i> <span class="vote-type">Useful</span>
+<span class="count"></span></span></a>
+</li>
+<li class="vote-item inline-block">
+<a href="javascript:;" rel="funny" class="ybtn ybtn--small funny"><span class="i-wrap ig-wrap-common i-ufc-funny-common-wrap button-content"><i class="i ig-common i-ufc-funny-common"></i> <span class="vote-type">Funny</span>
+<span class="count"></span></span></a>
+</li>
+<li class="vote-item inline-block">
+<a href="javascript:;" rel="cool" class="ybtn ybtn--small cool"><span class="i-wrap ig-wrap-common i-ufc-cool-common-wrap button-content"><i class="i ig-common i-ufc-cool-common"></i> <span class="vote-type">Cool</span>
+<span class="count"></span></span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
