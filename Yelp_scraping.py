@@ -30,7 +30,6 @@ for bizID in bizURL:
     url=bizURL[bizID]
 
     #get the List of yelp urls to scrape
-    url=bizURL[0]
     html = urllib.urlopen(url).read()
     soup = BeautifulSoup(html)
 
