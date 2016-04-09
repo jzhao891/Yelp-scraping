@@ -52,7 +52,7 @@ for bizID in bizURL:
     time.sleep(2)
 
 #Store review information into csv file
-directoryForDB = "/Users/jessicazhao/Documents/homework/CC/"
+directoryForDB = "/Users/jessicazhao/Documents/CC/"
 if not os.path.exists(directoryForDB):
 	os.makedirs(directoryForDB)
 with open(directoryForDB+"review.csv","w") as csvfile:
