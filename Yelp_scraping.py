@@ -1,9 +1,8 @@
 import csv
 import urllib
 from BeautifulSoup import *
-import re
 import os
-from threading import Thread
+import time
 
 
 #read business list for bizID
@@ -50,6 +49,7 @@ for bizID in bizURL:
         reviewFunny[div["data-review-id"]]=funny.text
         cool=div.find('a',{"rel":"cool"}).find('span',{"class":"count"})
         reviewCool[div["data-review-id"]]=cool.text
+    time.sleep(2)
 
 #Store review information into csv file
 directoryForDB = "/Users/jessicazhao/Documents/homework/CC/"
